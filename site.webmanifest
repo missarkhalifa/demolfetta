@@ -1,0 +1,13 @@
+{
+  "name": "de molfetta · Milano, dal 1938",
+  "short_name": "de molfetta",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#141c42",
+  "theme_color": "#141c42",
+  "icons": [
+    { "src": "images/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "images/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "images/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
